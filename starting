@@ -1,5 +1,8 @@
 
 namespace oop3
 {
-
+    class person
+    {
+        string person
+    }
 }
